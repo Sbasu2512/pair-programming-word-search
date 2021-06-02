@@ -16,7 +16,7 @@ const transpose = (matrix) => {
 
 
 const wordSearch = (letters, word) => { 
-//this.letters = letters; 
+
 
     let isInRows = false;
     let isInColoumns = false;
